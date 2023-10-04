@@ -524,7 +524,7 @@ input {
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
 	overflow: auto;
-	background: linear-gradient(to left, #036, #000);
+	background: linear-gradient(to left, #4cccd9, #464a58);
 
 	/* background:  rgb(213, 198, 221); */
 	color: #fff !important;
@@ -722,6 +722,20 @@ h3 {
 	background-color: #001828;
 	
 	background-image: linear-gradient(120deg, #464a58, #4cccd9);
+	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
+	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
+  }
+  .btn_visit_w:hover{
+	color: #fff !important;
+	float: left;
+	width: 100%;
+	padding: 5px 5px;
+	font-size: 14px;
+	border-radius: 50px !important;
+	border: 1px solid transparent;
+	background-color: #001828;
+	text-decoration: none;
+	background-image: linear-gradient(120deg, #4cccd9, #464646);
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
   }
