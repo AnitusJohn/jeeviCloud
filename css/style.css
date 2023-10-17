@@ -659,8 +659,6 @@ h3 {
 } */
 
 
-
-
 .card{
 	padding: 0 !important;
 	border-radius: 12px;
@@ -739,6 +737,8 @@ h3 {
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
   }
+
   img{
 	max-width: 100%;
   }
+  
